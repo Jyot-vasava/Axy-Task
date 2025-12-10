@@ -1,0 +1,5 @@
+# Ignore generated dataconnect files (CommonJS bundles)
+src/dataconnect-generated/
+
+# Ignore node modules
+node_modules/
