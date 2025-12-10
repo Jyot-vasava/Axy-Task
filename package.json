@@ -13,6 +13,7 @@
     "@reduxjs/toolkit": "^2.11.1",
     "@tailwindcss/vite": "^4.1.17",
     "install": "^0.13.0",
+    "jquery": "^3.7.1",
     "npm": "^11.7.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
@@ -22,6 +23,7 @@
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
+    "@types/jquery": "^3.5.33",
     "@types/react": "^19.2.5",
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^5.1.1",

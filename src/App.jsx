@@ -1,8 +1,12 @@
 import React from 'react'
+import Search from './Components/search/Search.jsx'
 
 function App() {
   return (
-    <div>App</div>
+    <>
+    <div>Axy-Gifs App</div>
+    <Search />
+    </>
   )
 }
 
