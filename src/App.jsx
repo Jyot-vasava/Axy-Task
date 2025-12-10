@@ -1,9 +1,15 @@
-import React from 'react'
+import React from "react";
+import SignupForm from "./Components/auth/SignupForm";
 
 function App() {
   return (
-    <div>App</div>
-  )
+    <>
+      <div
+      className="text-2xl font-bold mb-4"
+      >Axy-GIFs App</div>
+      <SignupForm />
+    </>
+  );
 }
 
-export default App
+export default App;
