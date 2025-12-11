@@ -11,13 +11,13 @@
   },
   "dependencies": {
     "@dataconnect/generated": "file:src/dataconnect-generated",
+    "@reduxjs/toolkit": "^2.11.1",
     "@tailwindcss/vite": "^4.1.17",
     "firebase": "^12.6.0",
-
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
+    "react-redux": "^9.2.0",
     "react-router-dom": "^7.10.1",
-
     "tailwindcss": "^4.1.17"
   },
   "devDependencies": {
